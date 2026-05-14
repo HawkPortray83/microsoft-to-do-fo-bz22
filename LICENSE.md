@@ -1,4 +1,4 @@
-#  
+#  Enhance Asana for macOS with Asana for macOS professional Plugin - OCR scanning and reminders, the #1 plugin. Includes OCR scanning and reminders for a smoother experience.
 
 
 
